@@ -25,7 +25,7 @@ The architecture-course project focused on control-path design for floating-poin
 
 **Status:** Coursework completed; repository documentation and design files are being organized.
 
-### [RC-Tank][(https://github.com/trietle11001/RC-Tank---Arduino-Mega-2560---Embedded-System-)]
+### [RC-Tank---Arduino-Mega-2560---Embedded-System-][(https://github.com/trietle11001/RC-Tank---Arduino-Mega-2560---Embedded-System-)]
 Embedded control prototype using an Arduino Mega 2560, HC-06 Bluetooth module, L298N motor driver, and a Python keyboard-control interface.
 
 **Status:** Prototype completed; documentation improvements are in progress.
